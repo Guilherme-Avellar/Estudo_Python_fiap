@@ -1,2 +1,2 @@
-# Estudo_Python_fiap
-Estudo de python pela faculdade fiap
+# Estudo Python fiap
+*Estudo de python pela faculdade fiap*
