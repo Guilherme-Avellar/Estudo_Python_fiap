@@ -7,7 +7,7 @@
 # ou seja o programa principal não consegue "chamar" a função que foi criada em outra
 # diretamente, pois ela esta no escopo da função em que foi criada. Para chama-la, deve-se
 # chamar a função principal, para função principal chamar ela, caso precise, pois tem a
-# possibilidade não precisar usa-la.
+# possibilidade de não precisar usa-la.
 
 # exemplo:
 
