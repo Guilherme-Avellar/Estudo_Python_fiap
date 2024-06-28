@@ -11,4 +11,4 @@ def contagemRecursiva(inicio: float, limite: float) -> None:
 
 # PROGRAMA PRINCIPAL
 print("Executando a função recursiva...")
-contagemRecursiva(1, 5)
+contagemRecursiva(1, 3)
